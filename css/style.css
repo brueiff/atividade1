@@ -4,13 +4,29 @@
    text-align: center;
 }
 body{
- background-color:rgb(2, 214, 252);
 
+ background-color:rgb(2, 214, 252);
+font-size:20px;
 }
+ 
+form{
+
+text-align: center;
+}
+
+
 footer{
- background-color:rgb(233, 233, 233);
- margin-top: 34%;
- height: 3cm; 
+box-shadow: 0 0 1em rgb(17, 17, 17);
+
+ background-color:rgb(149, 221, 245);
+ margin-top: 27%;
+ height: 4.8cm; 
  width: 100%; 
  padding: 0;
 }
+h3{
+    
+   text-align: center;
+}
+
+
