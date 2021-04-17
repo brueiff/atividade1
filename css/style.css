@@ -5,22 +5,37 @@
 }
 body{
 
- background-color:rgb(2, 214, 252);
+ background-color:rgb(2, 244, 252);
 font-size:20px;
 }
  
 form{
-
+box-shadow: 0 0 1em rgb(0, 0, 0);
+margin-top:10%;
 text-align: center;
+width:50%;
+margin-left: 24%;
+font-size:22px;
+height: 10cm;
+
+}
+input{
+    width:50%;
+    margin-top: 8px;
+    border: none;
+}
+
+#msg{
+ height:1.5cm;   
 }
 
 
 footer{
 box-shadow: 0 0 1em rgb(17, 17, 17);
 
- background-color:rgb(149, 221, 245);
- margin-top: 27%;
- height: 4.8cm; 
+ background-color:rgb(34, 179, 228);
+ margin-top: 9%;
+ height: 4.7cm; 
  width: 100%; 
  padding: 0;
 }
