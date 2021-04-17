@@ -1,0 +1,16 @@
+#st{
+    color: rgb(0, 0, 0);
+    font-size:60px;
+   text-align: center;
+}
+body{
+ background-color:rgb(2, 214, 252);
+
+}
+footer{
+ background-color:rgb(233, 233, 233);
+ margin-top: 34%;
+ height: 3cm; 
+ width: 100%; 
+ padding: 0;
+}
